@@ -6,7 +6,7 @@
 // @author          Francisco Pombal
 // @homepageURL     https://github.com/FranciscoPombal/userscripts
 // @supportURL      https://github.com/FranciscoPombal/userscripts
-// @downloadURL     https://github.com/FranciscoPombal/userscripts/blob/master/userscripts/rarbg_enhancer.user.js
+// @downloadURL     https://github.com/FranciscoPombal/userscripts/raw/master/userscripts/rarbg_enhancer.user.js
 // @grant           GM_xmlhttpRequest
 // @match           https://rarbgproxied.tld/*
 // @match           https://rarbg.tld/*

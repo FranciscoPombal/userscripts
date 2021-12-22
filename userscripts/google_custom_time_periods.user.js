@@ -6,7 +6,7 @@
 // @author       Francisco Pombal
 // @homepageURL     https://github.com/FranciscoPombal/userscripts
 // @supportURL      https://github.com/FranciscoPombal/userscripts
-// @downloadURL     https://github.com/FranciscoPombal/userscripts/blob/master/userscripts/google_custom_time_periods.user.js
+// @downloadURL     https://github.com/FranciscoPombal/userscripts/raw/master/userscripts/google_custom_time_periods.user.js
 // @grant        none
 // @match        https://www.google.tld/search?*
 // @match        https://google.tld/search?*

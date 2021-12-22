@@ -6,7 +6,7 @@
 // @author          Francisco Pombal
 // @homepageURL     https://github.com/FranciscoPombal/userscripts
 // @supportURL      https://github.com/FranciscoPombal/userscripts
-// @downloadURL     https://github.com/FranciscoPombal/userscripts/blob/master/userscripts/google_images_resolution_info.user.js
+// @downloadURL     https://github.com/FranciscoPombal/userscripts/raw/master/userscripts/google_images_resolution_info.user.js
 // @inject-into     content
 // @match           https://*.google.tld/*tbm=isch*
 // @run-at          document-end

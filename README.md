@@ -112,6 +112,11 @@ Clicking such links while logged in credited our account with points that were n
 
 Quick and low-effort dark theme for the Orange Website.
 
+### **GitHub Bulk Unsubscribe Closed Issues**
+
+Currently, GitHub does not have an API endpoint to manage [notification subscriptions](https://github.com/notifications/subscriptions).
+This userscript adds a button to check all closed/merged issues and PRs on the current page, to facilitate bulk unsubscribing of those items.
+
 ---
 
 ## Development

@@ -101,6 +101,13 @@ Opinionated improvements to the layout and functionality of RARBG pages with a f
 </details>
 <br/>
 
+### **Slayers Club Rating-Country Mapping Patcher** And **Slayers Club News Limit Patcher**
+
+_No longer relevant, the website functionality these userscripts targeted has been removed._
+
+We used these a long time ago to patch breakage on Bethesda's Slayers Club website to be able to click on "share" links on the site's articles that were otherwise inaccessible.
+Clicking such links while logged in credited our account with points that were necessary to unlock some cosmetic items in Doom Eternal.
+
 ---
 
 ## Development

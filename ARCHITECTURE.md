@@ -12,15 +12,15 @@ The design of all of these userscripts follows these general principles:
 
 5. Do as little as possible with the `MutationObserver`, and disconnect it as soon as (or, if it is) possible.
 
-## Code style
+## Code Style
 
 - For variable declaration, `const` is preferred to `let` which is preferred over everything else.
 - Arrow function syntax is used whenever possible.
 - `"use strict";` is always used.
 
-## Specific script details
+## Specific Script Details
 
-### Google custom search buttons
+### Google Custom Search Buttons
 
 Clicking the buttons simply appends `site:example.com` to the search query and repeats the search.
 
@@ -30,15 +30,15 @@ Clicking the buttons simply appends `site:example.com` to the search query and r
 
     Since the mutation observer's code only needs to be run once, the observer is disconnected after its first run.
 
-### Google custom time periods
+### Google Custom Time Periods
 
 This works very similarly to the previous script.
 
-### Google images resolution info
+### Google Images Resolution Info
 
 Same as above.
 
-### RARBG enhancer
+### RARBG Enhancer
 
 1. A function is called to remove any elements we don't find useful.
 

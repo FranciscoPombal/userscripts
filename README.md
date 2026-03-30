@@ -24,6 +24,8 @@ If you haven't migrated away from Google search yet, these scripts will help mak
 
 #### **Google custom search buttons**
 
+_No longer maintained._
+
 Adds search buttons to repeat the search but showing only results from certain sites.
 
 It is based on the [userscript originally written by Mario O. M.](https://github.com/marioortizmanero/reddit-search-on-google).
@@ -37,6 +39,8 @@ It is based on the [userscript originally written by Mario O. M.](https://github
 <br/>
 
 #### **Google custom time periods**
+
+_No longer maintained._
 
 Adds more time periods/ranges to Google's search options.
 
@@ -52,6 +56,8 @@ It is based on the [userscript originally written by "knoa"](https://greasyfork.
 
 #### **Google images resolution info**
 
+_Unmaintained for a long time, likely currenlty broken._
+
 Reintroduces image dimensions on thumbnails in the Google Image Search results page.
 
 It is based on the [userscript originally written by Tad Wohlrapp](https://github.com/tadwohlrapp/google-image-search-show-image-dimensions-userscript).
@@ -65,6 +71,8 @@ It is based on the [userscript originally written by Tad Wohlrapp](https://githu
 <br/>
 
 ### **RARBG enhancer**
+
+_No longer relevant, the website died._
 
 Opinionated improvements to the layout and functionality of RARBG pages with a focus on usability and minimalism.
 
@@ -97,7 +105,7 @@ Opinionated improvements to the layout and functionality of RARBG pages with a f
 
 ## Development
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for details about how the scripts work and their implementation details.
+See [ARCHITECTURE.md](ARCHITECTURE.md) for details about how some of the scripts work and their implementation details.
 
 ---
 

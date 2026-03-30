@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Hacker News Enhancer
-// @description    Dark theme selector and comment expander/collapser
+// @description    Dark theme for Hacker News
 // @version        1.0.0
 // @namespace      pombal.francisco@gmail.com
 // @author         Francisco Pombal
@@ -13,8 +13,6 @@
 // ==/UserScript==
 
 "use strict";
-
-// TODO: dark mode selector?
 
 // Entry point for the script.
 const main = () => {

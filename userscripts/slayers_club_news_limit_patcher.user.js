@@ -12,6 +12,7 @@
 // @run-at         document-start
 // ==/UserScript==
 
+"use strict";
 /* CAVEAT: the sharing feature for the older articles will still only work (and the articles will only load at all) if they are accessed through the news list or the "Previous article"/"Next article" buttons in the individual article pages, not via direct link.
  *
  * This basically just hooks XMLHttpRequest.open to find and replace the `limit=500` parameter in GET requests with a higher value.

@@ -4,8 +4,11 @@
 // @version     1.2.0
 // @namespace   pombal.francisco@gmail.com
 // @author      Francisco Pombal
-// @grant       none
 // @match       https://slayersclub.bethesda.tld/*
+// @homepageURL    https://github.com/FranciscoPombal/userscripts
+// @supportURL     https://github.com/FranciscoPombal/userscripts
+// @downloadURL    https://github.com/FranciscoPombal/userscripts/raw/master/userscripts/slayers_club_rating_country_mapping_patcher.user.js
+// @grant       none
 // @run-at      document-start
 // ==/UserScript==
 

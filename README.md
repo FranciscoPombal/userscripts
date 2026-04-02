@@ -56,7 +56,7 @@ It is based on the [userscript originally written by "knoa"](https://greasyfork.
 
 #### **Google images resolution info**
 
-_Unmaintained for a long time, likely currenlty broken._
+_Unmaintained for a long time, likely currently broken._
 
 Reintroduces image dimensions on thumbnails in the Google Image Search results page.
 

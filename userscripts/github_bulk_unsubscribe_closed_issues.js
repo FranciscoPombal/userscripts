@@ -37,7 +37,6 @@
         // Add click handler
         button.addEventListener("click", function () {
             const subscriptionItems = document.querySelectorAll(".notification-thread-subscription");
-            let checkedCount = 0;
 
             subscriptionItems.forEach((item) => {
                 const isOpen = item.querySelector(".octicon-issue-opened, .octicon-git-pull-request");
@@ -50,7 +49,6 @@
                     const checkbox = item.querySelector('input[type="checkbox"][name="subscription_ids[]"]');
                     if (checkbox && !checkbox.checked) {
                         checkbox.click();
-                        checkedCount += 1;
                     }
                 }
             });
